@@ -9,7 +9,6 @@
 <section>
 	<h1>Homepage</h1>
 	<a href="/visit?id=1">Visit 1</a>
-	<a href="/visit?id=2">Visit 2</a>
 </section>
 
 <style>
